@@ -1,0 +1,111 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ВВЕДЕНИЕ}{13}{section*.5}%
+\contentsline {section}{\numberline {1}Анализ предметной области разрабатываемой системы}{16}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Особенности предметной области и назначение разрабатываемого web-сервиса}{16}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Анализ существующих проблем при ручной организации записи на услуги}{17}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Причины необходимости разработки автоматизированного решения}{19}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Сравнительный анализ существующих интернет-сервисов в рассматриваемой области}{20}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Анализ возможностей сервиса YCLIENTS}{21}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Анализ возможностей платформы Профи.ру}{22}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Анализ возможностей сервиса YouDo}{22}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Итоги анализа существующих решений}{23}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Определение основных задач разработки}{24}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Техническое задание}{25}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{25}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{25}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к функциональности}{26}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Требования к интерфейсу}{27}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Моделирование вариантов использования}{30}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Вариант использования «Вход в систему»}{34}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}Вариант использования «Выход из системы»}{35}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Вариант использования «Регистрация пользователя»}{35}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Вариант использования «Просмотр каталога услуг»}{36}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Вариант использования «Поиск услуг по параметрам и доступным датам»}{37}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}Вариант использования «Просмотр страницы услуги»}{37}{subsubsection.2.5.6}%
+\contentsline {subsubsection}{\numberline {2.5.7}Вариант использования «Просмотр изображений услуги»}{38}{subsubsection.2.5.7}%
+\contentsline {subsubsection}{\numberline {2.5.8}Вариант использования «Добавление услуги в избранное»}{38}{subsubsection.2.5.8}%
+\contentsline {subsubsection}{\numberline {2.5.9}Вариант использования «Просмотр избранных услуг»}{39}{subsubsection.2.5.9}%
+\contentsline {subsubsection}{\numberline {2.5.10}Вариант использования «Создание бронирования»}{39}{subsubsection.2.5.10}%
+\contentsline {subsubsection}{\numberline {2.5.11}Вариант использования «Просмотр своих бронирований»}{40}{subsubsection.2.5.11}%
+\contentsline {subsubsection}{\numberline {2.5.12}Вариант использования «Отмена бронирования заказчиком»}{40}{subsubsection.2.5.12}%
+\contentsline {subsubsection}{\numberline {2.5.13}Вариант использования «Создание услуги исполнителем»}{41}{subsubsection.2.5.13}%
+\contentsline {subsubsection}{\numberline {2.5.14}Вариант использования «Редактирование услуги исполнителем»}{41}{subsubsection.2.5.14}%
+\contentsline {subsubsection}{\numberline {2.5.15}Вариант использования «Загрузка изображений для услуги»}{42}{subsubsection.2.5.15}%
+\contentsline {subsubsection}{\numberline {2.5.16}Вариант использования «Настройка расписания исполнителя»}{42}{subsubsection.2.5.16}%
+\contentsline {subsubsection}{\numberline {2.5.17}Вариант использования «Указание исключённых дат»}{43}{subsubsection.2.5.17}%
+\contentsline {subsubsection}{\numberline {2.5.18}Вариант использования «Просмотр входящих заявок исполнителем»}{43}{subsubsection.2.5.18}%
+\contentsline {subsubsection}{\numberline {2.5.19}Вариант использования «Подтверждение заявки исполнителем»}{44}{subsubsection.2.5.19}%
+\contentsline {subsubsection}{\numberline {2.5.20}Вариант использования «Отмена заявки исполнителем»}{44}{subsubsection.2.5.20}%
+\contentsline {subsubsection}{\numberline {2.5.21}Вариант использования «Отметка услуги как завершённой»}{45}{subsubsection.2.5.21}%
+\contentsline {subsubsection}{\numberline {2.5.22}Вариант использования «Отметка неявки заказчика»}{45}{subsubsection.2.5.22}%
+\contentsline {subsubsection}{\numberline {2.5.23}Вариант использования «Переписка по заявке»}{45}{subsubsection.2.5.23}%
+\contentsline {subsubsection}{\numberline {2.5.24}Вариант использования «Отправка изображения в чат»}{46}{subsubsection.2.5.24}%
+\contentsline {subsubsection}{\numberline {2.5.25}Вариант использования «Оставление отзыва после завершения услуги»}{46}{subsubsection.2.5.25}%
+\contentsline {subsubsection}{\numberline {2.5.26}Вариант использования «Редактирование профиля пользователя»}{47}{subsubsection.2.5.26}%
+\contentsline {subsection}{\numberline {2.6}Требования к надёжности}{48}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Требования к информационной безопасности}{49}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Требования к программной и технической совместимости}{50}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Требования к оформлению документации}{52}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Технический проект}{53}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика проектного решения}{53}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Выбор средств и технологий реализации}{54}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Состав применяемого технологического стека}{55}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Серверный язык программирования PHP}{55}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Клиентские web-технологии}{56}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Система управления базами данных MySQL}{57}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Средство администрирования базы данных phpMyAdmin}{57}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Web-сервер Apache и локальная среда Open Server Panel}{58}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}Архитектурное построение web-сервиса}{58}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Компоненты уровня пользовательского интерфейса}{60}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Компоненты уровня серверной логики}{62}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Компоненты уровня доступа к данным}{64}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Компоненты уровня хранения файлов}{66}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Диаграмма последовательности обработки запроса}{67}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Форматы данных}{68}{subsubsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.4}Проект базы данных web-сервиса}{68}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}ER-модель данных}{68}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Нормализация данных}{70}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Реляционная модель данных}{71}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Описание структуры базы данных}{72}{subsubsection.3.4.4}%
+\contentsline {section}{\numberline {4}Рабочий проект}{84}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Спецификация модулей программной системы}{84}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Модуль общих настроек и вспомогательных функций}{85}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Модуль регистрации и авторизации пользователей}{87}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Модуль управления профилем пользователя}{89}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Модуль каталога и просмотра услуг}{90}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Модуль управления услугами исполнителя}{91}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}Модуль расписания и формирования слотов}{93}{subsubsection.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.7}Модуль бронирования услуг}{95}{subsubsection.4.1.7}%
+\contentsline {subsubsection}{\numberline {4.1.8}Модуль обработки статусов заявок}{96}{subsubsection.4.1.8}%
+\contentsline {subsubsection}{\numberline {4.1.9}Модуль переписки по бронированию}{97}{subsubsection.4.1.9}%
+\contentsline {subsubsection}{\numberline {4.1.10}Модуль избранных услуг}{99}{subsubsection.4.1.10}%
+\contentsline {subsubsection}{\numberline {4.1.11}Модуль отзывов и репутации}{99}{subsubsection.4.1.11}%
+\contentsline {subsubsection}{\numberline {4.1.12}Модуль оформления интерфейса}{101}{subsubsection.4.1.12}%
+\contentsline {subsection}{\numberline {4.2}Системное тестирование}{102}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Сводная таблица тест-кейсов}{102}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}TC-01. Регистрация пользователя с ролью заказчика}{103}{subsubsection.4.2.2}%
+\contentsline {subsubsection}{\numberline {4.2.3}TC-02. Авторизация зарегистрированного пользователя}{104}{subsubsection.4.2.3}%
+\contentsline {subsubsection}{\numberline {4.2.4}TC-03. Редактирование профиля пользователя}{105}{subsubsection.4.2.4}%
+\contentsline {subsubsection}{\numberline {4.2.5}TC-04. Создание услуги исполнителем}{106}{subsubsection.4.2.5}%
+\contentsline {subsubsection}{\numberline {4.2.6}TC-05. Настройка расписания исполнителя}{107}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}TC-06. Формирование свободных временных слотов}{108}{subsubsection.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.8}TC-07. Поиск и фильтрация услуг в каталоге}{109}{subsubsection.4.2.8}%
+\contentsline {subsubsection}{\numberline {4.2.9}TC-08. Создание бронирования заказчиком}{110}{subsubsection.4.2.9}%
+\contentsline {subsubsection}{\numberline {4.2.10}TC-09. Защита от повторного бронирования занятого слота}{111}{subsubsection.4.2.10}%
+\contentsline {subsubsection}{\numberline {4.2.11}TC-10. Подтверждение заявки исполнителем}{112}{subsubsection.4.2.11}%
+\contentsline {subsubsection}{\numberline {4.2.12}TC-11. Отмена бронирования заказчиком}{113}{subsubsection.4.2.12}%
+\contentsline {subsubsection}{\numberline {4.2.13}TC-12. Переписка по заявке}{114}{subsubsection.4.2.13}%
+\contentsline {subsubsection}{\numberline {4.2.14}TC-13. Добавление услуги в избранное}{115}{subsubsection.4.2.14}%
+\contentsline {subsubsection}{\numberline {4.2.15}TC-14. Оставление отзыва после завершения услуги}{116}{subsubsection.4.2.15}%
+\contentsline {subsubsection}{\numberline {4.2.16}TC-15. Проверка валидации некорректных данных}{117}{subsubsection.4.2.16}%
+\contentsline {subsubsection}{\numberline {4.2.17}Нефункциональное тестирование}{118}{subsubsection.4.2.17}%
+\contentsline {subsubsection}{\numberline {4.2.18}Вывод по результатам тестирования}{120}{subsubsection.4.2.18}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{121}{section*.35}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{122}{Item.286}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{128}{section*.37}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Фрагменты исходного кода программы}{138}{section*.47}%
+\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{150}{lstnumber.-3.262}%

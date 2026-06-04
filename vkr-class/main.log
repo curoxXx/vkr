@@ -1,0 +1,2523 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.4.21)  4 JUN 2026 23:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+(./setup.tex (./vkr.cls
+Document Class: vkr VKR class
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-03-20 L3 programming layer (loader) 
+
+(c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2026-02-18 L3 backend support: XeTeX
+\g__graphics_track_int=\count271
+\g__pdfannot_backend_int=\count272
+\g__pdfannot_backend_link_int=\count273
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count274
+\l__fontspec_language_int=\count275
+\l__fontspec_strnum_int=\count276
+\l__fontspec_tmp_int=\count277
+\l__fontspec_tmpa_int=\count278
+\l__fontspec_tmpb_int=\count279
+\l__fontspec_tmpc_int=\count280
+\l__fontspec_em_int=\count281
+\l__fontspec_emdef_int=\count282
+\l__fontspec_strong_int=\count283
+\l__fontspec_strongdef_int=\count284
+\l__fontspec_tmpa_dim=\dimen150
+\l__fontspec_tmpb_dim=\dimen151
+\l__fontspec_tmpc_dim=\dimen152
+
+(c:/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(c:/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+
+\pagetop=\skip49
+\pagebottom=\skip50
+\pageleft=\skip51
+\pageright=\skip52
+\pwidth=\skip53
+\pheight=\skip54
+\saved@arstrutbox=\box53
+\c@section=\count285
+\c@subsection=\count286
+\c@subsubsection=\count287
+\c@paragraph=\count288
+\c@figure=\count289
+\c@figurecnt=\count290
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+\c@table=\count291
+\c@tablecnt=\count292
+\c@lastpage=\count293
+\c@числоПлакатов=\count294
+\c@bibcount=\count295
+)
+(c:/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/04/15 v26.6 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count296
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen153
+\l@unhyphenated=\language91
+
+(c:/texlive/2026/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count297
+
+(c:/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.tex)
+(c:/texlive/2026/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+
+(c:/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language22). Reported on input line 108.
+)
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 4330.
+
+(c:/texlive/2026/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+)
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(c:/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(c:/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(c:/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(c:/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(c:/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count298
+)
+(c:/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count299
+)
+(c:/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen156
+\Hy@linkcounter=\count300
+\Hy@pagecounter=\count301
+
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count302
+
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `unicode' set `true' on input line 3166.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count303
+
+(c:/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen157
+
+(c:/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count304
+\Field@Width=\dimen158
+\Fld@charsize=\dimen159
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count305
+\c@Item=\count306
+\c@Hfootnote=\count307
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2026/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count308
+\HyField@AnnotCount=\count309
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
+
+(c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip57
+)
+(c:/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count312
+\float@exts=\toks18
+\float@box=\box55
+\@float@everytoks=\toks19
+\@floatcapt=\box56
+)
+(c:/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
+
+(c:/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
+F (HO)
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+))
+(c:/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count313
+\LTcapwidth=\dimen160
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count314
+\LT@rows=\count315
+\c@LT@tables=\count316
+\c@LT@chunks=\count317
+\LT@p@ftn=\toks20
+) (./xltabular.sty
+Package: xltabular 2020/11/04 v0.2e `xltabular' package (hv,RN)
+
+(c:/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+
+(c:/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box62
+\extrarowheight=\dimen162
+\NC@list=\toks21
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box63
+)
+\TX@col@width=\dimen163
+\TX@old@table=\dimen164
+\TX@old@col=\dimen165
+\TX@target=\dimen166
+\TX@delta=\dimen167
+\TX@cols=\count318
+\TX@ftn=\toks22
+)
+(c:/texlive/2026/texmf-dist/tex/latex/ltablex/ltablex.sty
+Package: ltablex 2014/08/13 v1.1 Modified tabularx
+))
+(c:/texlive/2026/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen168
+\c@nlinenum=\count319
+\TeXr@lab=\toks23
+)
+(c:/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+
+Package array Warning: Redefining primitive column r on input line 18.
+
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen169
+\captionmargin=\dimen170
+\caption@leftmargin=\dimen171
+\caption@rightmargin=\dimen172
+\caption@width=\dimen173
+\caption@indent=\dimen174
+\caption@parindent=\dimen175
+\caption@hangindent=\dimen176
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#1 -- #2}\ifdim \wd \@tempboxa >\hsize #1 -- #2\par \else \
+global \@minipagefalse \if \instring {Таб}{#1} \hb@xt@ \hsize {\box \@tempboxa 
+\hfil }\else \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \fi \vskip \below
+captionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count320
+\c@continuedfloat=\count321
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+(c:/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+(c:/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen177
+\enit@toks=\toks24
+\enit@inbox=\box64
+\enit@count@id=\count322
+\enitdp@description=\count323
+)
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+
+(c:/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(c:/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count324
+\lst@gtempboxa=\box65
+\lst@token=\toks25
+\lst@length=\count325
+\lst@currlwidth=\dimen178
+\lst@column=\count326
+\lst@pos=\count327
+\lst@lostspace=\dimen179
+\lst@width=\dimen180
+\lst@newlines=\count328
+\lst@lineno=\count329
+\lst@maxwidth=\dimen181
+
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count330
+\lst@skipnumbers=\count331
+\lst@framebox=\box66
+)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+Package fontspec Info: 
+(fontspec)             Verdana scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/B scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/B scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/I scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/I scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/BI scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Verdana/BI scale = 0.7.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Verdana(0)' created for font 'Verdana'
+(fontspec)             with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Scale=0.7].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/OT:script=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/OT:script=latn;language=dflt;+smcp;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/B/OT:script=latn;language=dflt;+smcp;
+"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/I/OT:script=latn;language=dflt;+smcp;
+"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.7]"Verdana/BI/OT:script=latn;language=dflt;+smcp
+;"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+)) (./main.aux
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 8.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 31.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 31.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 31.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 31.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 31.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 31.
+LaTeX Font Info:    Redeclaring math accent \check on input line 31.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 31.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 31.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 31.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 31.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 31.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
+1.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/Verdana(0)/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/Verdana(0)/b/n on input line 31.
+LaTeX Info: Redefining \th on input line 31.
+Package hyperref Info: Link coloring OFF on input line 31.
+
+(./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count332
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[] 
+ []
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 33--33
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+
+ []
+
+[1] (./ЛистЗадания.tex
+Underfull \hbox (badness 1460) in paragraph at lines 58--59
+[]\TU/TimesNewRoman(0)/m/n/14.4 разработать функциональные модули регистрации, 
+авторизации,
+ []
+
+[2] (./main.lop [3])
+\tf@lop=\write4
+\openout4 = `main.lop'.
+
+
+Overfull \hbox (4.70218pt too wide) in paragraph at lines 95--106
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--106
+
+ []
+
+) (./Реферат.tex [4]
+\c=\count333
+\last=\count334
+\pnul=\count335
+\c=\count336
+\last=\count337
+\pnul=\count338
+\c=\count339
+\last=\count340
+\pnul=\count341
+\c=\count342
+\last=\count343
+\pnul=\count344
+
+Underfull \hbox (badness 1521) in paragraph at lines 13--14
+[]\TU/TimesNewRoman(0)/m/n/14.4 Система прошла системное тестирование, подтверд
+ившее соответ-
+ []
+
+[5]
+\c=\count345
+\last=\count346
+\pnul=\count347
+\c=\count348
+\last=\count349
+\pnul=\count350
+\c=\count351
+\last=\count352
+\pnul=\count353
+\c=\count354
+\last=\count355
+\pnul=\count356
+) [6] (./main.toc [7] [8] [9])
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+ (./main.lpc)
+\tf@lpc=\write6
+\openout6 = `main.lpc'.
+
+ (./Обозначения.tex
+Underfull \hbox (badness 3078) in paragraph at lines 1--1
+\TU/TimesNewRoman(0)/m/n/14.4 материал / Диаграмма прецедентов для неавторизова
+нного пользовате-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+
+ []
+
+[10] [11]) (./Введение.tex [12] [13]
+Underfull \hbox (badness 3009) in paragraph at lines 18--19
+[]\TU/TimesNewRoman(0)/m/n/14.4 разработать функциональные модули регистрации, 
+авторизации,
+ []
+
+\c=\count357
+\last=\count358
+\pnul=\count359
+[14]) (./Анализ.tex [15]
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]\TU/TimesNewRoman(0)/b/n/14.4 1.1 Особенности предметной области и назначение
+
+ []
+
+[16]
+Underfull \hbox (badness 2698) in paragraph at lines 19--19
+[]\TU/TimesNewRoman(0)/b/n/14.4 1.2 Анализ существующих проблем при ручной орга
+низации
+ []
+
+[17] [18]
+Underfull \hbox (badness 2495) in paragraph at lines 35--35
+[]\TU/TimesNewRoman(0)/b/n/14.4 1.3 Причины необходимости разработки автоматизи
+рованного
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 39--40
+[]\TU/TimesNewRoman(0)/m/n/14.4 Прежде всего автоматизация должна обеспечить це
+нтрализованное
+ []
+
+[19] [20]
+Underfull \hbox (badness 1990) in paragraph at lines 61--62
+[]\TU/TimesNewRoman(0)/m/n/14.4 Преимуществом данного сервиса является развитый
+ инструмента-
+ []
+
+[21] [22] [23]) (./ТехЗадание.tex [24]
+Underfull \hbox (badness 1748) in paragraph at lines 15--16
+[]\TU/TimesNewRoman(0)/m/n/14.4 реализация подсистемы регистрации, авторизации 
+и управления
+ []
+
+[25] [26] [27]
+Underfull \hbox (badness 1152) in paragraph at lines 90--91
+[]\TU/TimesNewRoman(0)/m/n/14.4 На рисунке []2.1[] представлен внешний вид глав
+ной страницы web-
+ []
+
+File: images/main.png Graphic file (type bmp)
+<images/main.png>
+[28]
+File: images/services.png Graphic file (type bmp)
+<images/services.png>
+ [29] [30]
+File: images/nonauth.png Graphic file (type bmp)
+<images/nonauth.png>
+ [31]
+File: images/customer.png Graphic file (type bmp)
+<images/customer.png>
+ [32]
+File: images/provider.png Graphic file (type bmp)
+<images/provider.png>
+ [33] [34] [35]
+Underfull \hbox (badness 1997) in paragraph at lines 263--263
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.5 Вариант использования «Поиск услуг по пар
+аметрам и
+ []
+
+[36]
+Underfull \hbox (badness 1014) in paragraph at lines 269--270
+[]\TU/TimesNewRoman(0)/m/n/14.4 Постусловие: пользователю отображается отфильтр
+ованный список
+ []
+
+[37] [38] [39]
+Underfull \hbox (badness 10000) in paragraph at lines 396--396
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.12 Вариант использования «Отмена бронирован
+ия
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 434--434
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.14 Вариант использования «Редактирование ус
+луги
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.15 Вариант использования «Загрузка изображе
+ний для
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 471--471
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.16 Вариант использования «Настройка расписа
+ния
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 507--507
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.18 Вариант использования «Просмотр входящих
+ заявок
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.19 Вариант использования «Подтверждение зая
+вки
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 557--557
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.21 Вариант использования «Отметка услуги ка
+к
+ []
+
+[44] [45]
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.25 Вариант использования «Оставление отзыва
+ после
+ []
+
+[46]
+Underfull \hbox (badness 1648) in paragraph at lines 633--634
+[]\TU/TimesNewRoman(0)/m/n/14.4 Постусловие: отзыв сохранён в системе; репутаци
+онные сведения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 653--653
+[]\TU/TimesNewRoman(0)/b/n/14.4 2.5.26 Вариант использования «Редактирование пр
+офиля
+ []
+
+[47]
+Underfull \hbox (badness 6316) in paragraph at lines 682--684
+[]\TU/TimesNewRoman(0)/m/n/14.4 Контроль целостности на уровне приложения. На у
+ровне web-
+ []
+
+[48] [49]
+Underfull \hbox (badness 1565) in paragraph at lines 716--718
+\TU/TimesNewRoman(0)/m/n/14.4 боту пользовательских сессий, исключающую несанкц
+ионированное ис-
+ []
+
+[50]
+Underfull \hbox (badness 1721) in paragraph at lines 735--738
+[]\TU/TimesNewRoman(0)/m/n/14.4 Программное обеспечение. Для реализации програм
+мной системы
+ []
+
+[51]) (./ТехПроект.tex [52]
+Underfull \hbox (badness 6910) in paragraph at lines 5--6
+[]\TU/TimesNewRoman(0)/m/n/14.4 Разрабатываемая программная система представляе
+т собой web-
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 7--8
+\TU/TimesNewRoman(0)/m/n/14.4 зователя и предоставляет доступ к функциям сервис
+а. Серверная часть
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/m/n/14.4 В основу проектного решения положено разделение
+ системы на
+ []
+
+[53]
+File: images/arch.png Graphic file (type bmp)
+<images/arch.png>
+
+Underfull \hbox (badness 2828) in paragraph at lines 29--30
+[]\TU/TimesNewRoman(0)/m/n/14.4 В результате для реализации системы был выбран 
+классический
+ []
+
+[54]
+Underfull \hbox (badness 1389) in paragraph at lines 49--50
+\TU/TimesNewRoman(0)/m/n/14.4 бран PHP. Данный язык ориентирован на создание ди
+намических web-
+ []
+
+[55]
+Underfull \hbox (badness 2050) in paragraph at lines 68--69
+[]\TU/TimesNewRoman(0)/m/n/14.4 Клиентская часть сервиса реализована средствами
+ HTML, CSS и
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 74--75
+[]\TU/TimesNewRoman(0)/m/n/14.4 JavaScript используется для реализации интеракт
+ивного поведения
+ []
+
+[56]
+Underfull \hbox (badness 1874) in paragraph at lines 97--98
+[]\TU/TimesNewRoman(0)/m/n/14.4 Использование MySQL является обоснованным, поск
+ольку данная
+ []
+
+[57]
+Underfull \hbox (badness 1264) in paragraph at lines 118--119
+[]\TU/TimesNewRoman(0)/m/n/14.4 На этапе локальной разработки использовалась ср
+еда Open Server
+ []
+
+[58]
+Underfull \hbox (badness 2951) in paragraph at lines 141--142
+[]\TU/TimesNewRoman(0)/m/n/14.4 На рисунке []3.2[] представлена уровневая схема
+ архитектуры web-
+ []
+
+File: images/levels.png Graphic file (type bmp)
+<images/levels.png>
+[59]
+Underfull \hbox (badness 4316) in paragraph at lines 151--152
+[]\TU/TimesNewRoman(0)/m/n/14.4 Уровень серверной логики объединяет web-сервер 
+Apache, PHP-
+ []
+
+
+Underfull \hbox (badness 2495) in paragraph at lines 161--162
+\TU/TimesNewRoman(0)/m/n/14.4 ных и взаимодействие пользователя с системой. Он 
+включает HTML-
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 161--162
+\TU/TimesNewRoman(0)/m/n/14.4 ствий, календарные элементы, модальные окна и кли
+ентские сценарии
+ []
+
+File: images/clientcomp.png Graphic file (type bmp)
+<images/clientcomp.png>
+[60] [61]
+File: images/servercomp.png Graphic file (type bmp)
+<images/servercomp.png>
+ [62]
+Underfull \hbox (badness 3375) in paragraph at lines 201--202
+[]\TU/TimesNewRoman(0)/m/n/14.4 модуль services/, обеспечивающий просмотр катал
+ога, карточек
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 216--217
+[]\TU/TimesNewRoman(0)/m/n/14.4 Алгоритм формирования слотов основывается на да
+нных таблиц
+ []
+
+[63]
+File: images/datacomp.png Graphic file (type bmp)
+<images/datacomp.png>
+ [64]
+Underfull \hbox (badness 2951) in paragraph at lines 245--246
+[]\TU/TimesNewRoman(0)/m/n/14.4 Серверная логика обращается к базе данных через
+ общий файл
+ []
+
+[65]
+File: images/filecomp.png Graphic file (type bmp)
+<images/filecomp.png>
+File: images/sequence.png Graphic file (type bmp)
+<images/sequence.png>
+ [66]
+Underfull \hbox (badness 4193) in paragraph at lines 279--280
+\TU/TimesNewRoman(0)/m/n/14.4 ге и доступных слотах. После выбора слота выполня
+ется переход к
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 281--282
+[]\TU/TimesNewRoman(0)/m/n/14.4 После подтверждения записи браузер отправляет P
+OST-запрос в
+ []
+
+[67]
+Underfull \hbox (badness 4995) in paragraph at lines 285--286
+[]\TU/TimesNewRoman(0)/m/n/14.4 Обмен данными между браузером пользователя и we
+b-сервером
+ []
+
+[68]
+File: images/ermodel.png Graphic file (type bmp)
+<images/ermodel.png>
+ [69] [70]
+File: images/relmodel.png Graphic file (type bmp)
+<images/relmodel.png>
+ [71]
+Overfull \hbox (469.47049pt too wide) detected at line 357
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 356--359
+[] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 359--362
+[] [] []
+ []
+
+
+Overfull \hbox (3.37659pt too wide) in paragraph at lines 369--369
+[]|\TU/TimesNewRoman(0)/m/n/14.4 service_unavailable  
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 362--377
+[] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [72]
+Overfull \hbox (469.47049pt too wide) detected at line 382
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 381--384
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 384--387
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 387--399
+[] [] [] []
+ []
+
+[73]
+Overfull \hbox (469.47049pt too wide) detected at line 404
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 403--406
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 406--409
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 409--412
+[] [] [] []
+ []
+
+[74]
+Overfull \hbox (469.47049pt too wide) detected at line 417
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 416--419
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 419--422
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 422--425
+[] [] [] []
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 430
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 429--432
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 432--435
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 435--449
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [75]
+Overfull \hbox (469.47049pt too wide) detected at line 454
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 453--456
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 456--459
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 459--464
+[] [] [] []
+ []
+
+[76]
+Overfull \hbox (469.47049pt too wide) detected at line 469
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 468--471
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 471--474
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 474--483
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [77]
+Overfull \hbox (469.47049pt too wide) detected at line 488
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 487--490
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 490--493
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 493--498
+[] [] [] []
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 503
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 502--505
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 505--508
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 508--514
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [78]
+Overfull \hbox (469.47049pt too wide) detected at line 519
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 518--521
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 521--524
+[] [] [] []
+ []
+
+
+Overfull \hbox (0.64581pt too wide) in paragraph at lines 534--534
+[]|\TU/TimesNewRoman(0)/m/n/14.4 customer_message|  
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 524--539
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [79]
+Overfull \hbox (469.47049pt too wide) detected at line 544
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 543--546
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 546--549
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 549--553
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [80]
+Overfull \hbox (469.47049pt too wide) detected at line 558
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 557--560
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 560--563
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 563--571
+[] [] [] []
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 576
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 575--578
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 578--581
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 581--585
+[] [] [] []
+ []
+
+[81]
+Overfull \hbox (469.47049pt too wide) detected at line 590
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 589--592
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 592--595
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 595--604
+[] [] [] []
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [82]
+Overfull \hbox (469.47049pt too wide) detected at line 609
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 608--611
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 611--614
+[] [] [] []
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 614--619
+[] [] [] []
+ []
+
+) (./РабочийПроект.tex [83]
+Underfull \hbox (badness 1460) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/14.4 обработчиках. Поэтому в данном разделе отдельно п
+риведены таблицы
+ []
+
+[84]
+Overfull \hbox (469.47049pt too wide) detected at line 53
+[]
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Область приме-
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 53
+[]
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Область приме-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выполняет перенаправление
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 53--53
+\TU/TimesNewRoman(0)/m/n/14.4 ницу и завершает выполнение
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Ограничивает доступ авторизо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Профиль поль-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Безопасность
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Валидация дан-
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Валидация дан-
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет корректность адреса
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Валидация дан-
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет соответствие номера
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 53--53
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Валидация дан-
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [85]
+Overfull \hbox (469.47049pt too wide) detected at line 77
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 77
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Подключение к базе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Запуск пользователь-
+ []
+
+
+Underfull \hbox (badness 2057) in paragraph at lines 77--77
+\TU/TimesNewRoman(0)/m/n/14.4 PHP, необходимый для хранения
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 77--77
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирование общей
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирование ниж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Завершает HTML-структуру
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+\TU/TimesNewRoman(0)/m/n/14.4 страницы и подключает общие
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [86]
+Overfull \hbox (469.47049pt too wide) detected at line 113
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 113
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка регистраци-
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет ФИО, email, телефон,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка уникально-
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выполняет поиск пользователя с
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание учётной за-
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 113--113
+\TU/TimesNewRoman(0)/m/n/14.4 ные нового пользователя в базе
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание пользова-
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 113--113
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаляет данные пользователя из
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 113--113
+\TU/TimesNewRoman(0)/m/n/14.4 сессии и перенаправляет его на
+ []
+
+[87] [88]
+Overfull \hbox (469.47049pt too wide) detected at line 143
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 143
+[]
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 143--143
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение личного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 143--143
+\TU/TimesNewRoman(0)/m/n/14.4 му изменения профиля и список
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 143--143
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка изображения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохраняет изменённые данные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\TU/TimesNewRoman(0)/m/n/14.4 пользователя в базе данных и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\TU/TimesNewRoman(0)/m/n/14.4 обновляет сведения в текущей
+ []
+
+[89]
+Overfull \hbox (469.47049pt too wide) detected at line 177
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 177
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение списка
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отбирает услуги по совпадению
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Ограничивает список услуг вы-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Просмотр страницы
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение отзывов
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 177--177
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загружает и показывает отзывы,
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [90]
+Overfull \hbox (469.47049pt too wide) detected at line 215
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 215
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Просмотр собствен-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 215--215
+\TU/TimesNewRoman(0)/m/n/14.4 му добавления новой услуги с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка данных
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет заполнение обязатель-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка изображений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загружает данные выбранной
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 215--215
+\TU/TimesNewRoman(0)/m/n/14.4 услуги и отображает форму их
+ []
+
+
+Underfull \hbox (badness 2799) in paragraph at lines 215--215
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаляет выбранные изображения
+ []
+
+
+Underfull \hbox (badness 2285) in paragraph at lines 215--215
+\TU/TimesNewRoman(0)/m/n/14.4 из карточки услуги и обновляет
+ []
+
+[91]
+ignored: Infinite glue shrinkage found in box being split [92]
+Overfull \hbox (469.47049pt too wide) detected at line 239
+[]
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 239--239
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Область приме-
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 239
+[]
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 239--239
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Область приме-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]|\TU/Verdana(0)/m/n/14.4 generateServiceSlots($pdo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Генерация сло-
+ []
+
+
+Underfull \hbox (badness 8056) in paragraph at lines 239--239
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирует свободные времен-
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 239--239
+\TU/TimesNewRoman(0)/m/n/14.4 ные слоты на основе расписа-
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 267
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 267
+[]
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 267--267
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет корректность выбран-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохранение расписа-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обновляет рабочие интервалы
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 267--267
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаляет ранее указанную исклю-
+ []
+
+
+Underfull \hbox (badness 3826) in paragraph at lines 267--267
+\TU/TimesNewRoman(0)/m/n/14.4 чённую дату и позволяет снова
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обновление будущих
+ []
+
+[93] [94]
+Overfull \hbox (469.47049pt too wide) detected at line 305
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 305
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 305--305
+\TU/TimesNewRoman(0)/m/n/14.4 услуге, исполнителе, выбранном
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка выбранного
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверяет существование слота,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+\TU/TimesNewRoman(0)/m/n/14.4 его принадлежность выбранной
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка прав заказ-
+ []
+
+
+Underfull \hbox (badness 7397) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Запрещает бронирование услуги
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание бронирова-
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 305--305
+\TU/TimesNewRoman(0)/m/n/14.4 ных со статусом ожидания под-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Создание системного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--305
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Просмотр собствен-
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [95]
+Overfull \hbox (469.47049pt too wide) detected at line 343
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 343
+[]
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 343--343
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отмена бронирования
+ []
+
+
+Underfull \hbox (badness 2065) in paragraph at lines 343--343
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Переводит ожидающую заявку в
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 343--343
+\TU/TimesNewRoman(0)/m/n/14.4 входящую заявку, если оказание
+ []
+
+
+Underfull \hbox (badness 5652) in paragraph at lines 343--343
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Фиксация неявки за-
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 343--343
+\TU/TimesNewRoman(0)/m/n/14.4 водит связанный слот обратно в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отказ рискованному
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [96]
+Overfull \hbox (469.47049pt too wide) detected at line 379
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 379
+[]
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Просмотр списка ча-
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загружает и отображает сообще-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отправка текстового
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохраняет новое текстовое сооб-
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Загрузка изображений
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отметка сообщений
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обновляет состояние сообщений
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 379--379
+\TU/TimesNewRoman(0)/m/n/14.4 после открытия чата пользовате-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение счёт-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--379
+\TU/TimesNewRoman(0)/m/n/14.4 чика непрочитанных
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 379--379
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Показывает в интерфейсе коли-
+ []
+
+[97] [98]
+Overfull \hbox (469.47049pt too wide) detected at line 411
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 411
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Разрешает работу с избранным
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+\TU/TimesNewRoman(0)/m/n/14.4 только пользователю с ролью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка состояния
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление услуги в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаляет ранее созданную связь
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Просмотр избранных
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 411--411
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображает список сохранённых
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 445
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 445
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Отображение формы
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Определение получа-
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Определяет, какого пользователя
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка повторного
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Запрещает одному пользователю
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Формирование рей-
+ []
+
+
+Underfull \hbox (badness 3657) in paragraph at lines 445--445
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Использует накопленные отзывы
+ []
+
+[99] [100]
+Overfull \hbox (469.47049pt too wide) detected at line 481
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 481
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Задаёт базовые цвета, отступы,
+ []
+
+
+Underfull \hbox (badness 3417) in paragraph at lines 481--481
+\TU/TimesNewRoman(0)/m/n/14.4 контейнеры, кнопки, карточки и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Оформление страниц
+ []
+
+
+Underfull \hbox (badness 4429) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Оформление каталога
+ []
+
+
+Underfull \hbox (badness 6063) in paragraph at lines 481--481
+\TU/TimesNewRoman(0)/m/n/14.4 тров, страницы услуги и форм
+ []
+
+
+Underfull \hbox (badness 3148) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Оформление расписа-
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Определяет внешний вид списка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Переключение темы
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 481--481
+\TU/TimesNewRoman(0)/m/n/14.4 хранением выбранного режима в
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [101]
+Overfull \hbox (469.47049pt too wide) detected at line 533
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 533
+[]
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 533--533
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Авторизация зарегистрированного пользо-
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split [102]
+Underfull \hbox (badness 1389) in paragraph at lines 548--549
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ожидаемый результат: система проверяет корректн
+ость введённых
+ []
+
+[103]
+File: images/tc1.png Graphic file (type bmp)
+<images/tc1.png>
+File: images/tc2.png Graphic file (type bmp)
+<images/tc2.png>
+ [104]
+File: images/tc3.png Graphic file (type bmp)
+<images/tc3.png>
+ [105]
+File: images/tc4.png Graphic file (type bmp)
+<images/tc4.png>
+ [106]
+File: images/tc5.png Graphic file (type bmp)
+<images/tc5.png>
+ [107]
+File: images/tc6.png Graphic file (type bmp)
+<images/tc6.png>
+ [108]
+Underfull \hbox (badness 3449) in paragraph at lines 694--695
+[]\TU/TimesNewRoman(0)/m/n/14.4 Фактический результат: каталог был отфильтрован
+, пользователю
+ []
+
+File: images/tc7.png Graphic file (type bmp)
+<images/tc7.png>
+[109]
+File: images/tc8.png Graphic file (type bmp)
+<images/tc8.png>
+ [110]
+File: images/tc9.png Graphic file (type bmp)
+<images/tc9.png>
+ [111]
+File: images/tc10.png Graphic file (type bmp)
+<images/tc10.png>
+ [112]
+File: images/tc11.png Graphic file (type bmp)
+<images/tc11.png>
+ [113]
+File: images/tc12.png Graphic file (type bmp)
+<images/tc12.png>
+ [114]
+File: images/tc13.png Graphic file (type bmp)
+<images/tc13.png>
+ [115]
+File: images/tc14.png Graphic file (type bmp)
+<images/tc14.png>
+ [116]
+Underfull \hbox (badness 1057) in paragraph at lines 883--884
+[]\TU/TimesNewRoman(0)/m/n/14.4 Фактический результат: некорректные данные не б
+ыли сохранены,
+ []
+
+File: images/tc15.png Graphic file (type bmp)
+<images/tc15.png>
+[117]
+Overfull \hbox (469.47049pt too wide) detected at line 921
+[]
+ []
+
+
+Overfull \hbox (469.47049pt too wide) detected at line 921
+[]
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 921--921
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Проверка доступа к закры-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Неавторизованный пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
+\TU/TimesNewRoman(0)/m/n/14.4 ватель перенаправляется на
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 921--921
+\TU/TimesNewRoman(0)/m/n/14.4 страницу входа при попытке
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 921--921
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Заказчик не может управлять
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 921--921
+\TU/TimesNewRoman(0)/m/n/14.4 нитель не может бронировать
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 921--921
+\TU/TimesNewRoman(0)/m/n/14.4 нения HTML- или JavaScript-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 921--921
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Сохранение целостности
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 921--921
+[]|\TU/TimesNewRoman(0)/m/n/14.4 При ошибках во время созда-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 921--921
+\TU/TimesNewRoman(0)/m/n/14.4 ния бронирования или загруз-
+ []
+
+[118] [119]) (./Заключение.tex [120] [121]) (./СписокИсточников.tex [122]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]\TU/TimesNewRoman(0)/m/n/14.4 Visual Studio Code Documentation : сайт. – URL:
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP Data Objects : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP. PDO prepared statements : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+\TU/TimesNewRoman(0)/m/n/14.4 https://www.php.net/manual/ru/pdo.prepared-statem
+ents.php (дата обраще-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP. Transactions and auto-commit : сайт. – URL
+:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\TU/TimesNewRoman(0)/m/n/14.4 https://www.php.net/manual/ru/pdo.transactions.ph
+p (дата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP. Сессии : сайт. – URL: https://www.php.net/
+manual/ru/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP. Загрузка файлов на сервер : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+\TU/TimesNewRoman(0)/m/n/14.4 https://www.php.net/manual/ru/features.file-uploa
+d.php (дата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+[]\TU/TimesNewRoman(0)/m/n/14.4 PHP. password_hash : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 6157) in paragraph at lines 13--14
+\TU/TimesNewRoman(0)/m/n/14.4 https://www.php.net/manual/ru/function.password-h
+ash.php (дата обращения:
+ []
+
+[123]
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]\TU/TimesNewRoman(0)/m/n/14.4 MySQL 8.4 Reference Manual : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]\TU/TimesNewRoman(0)/m/n/14.4 MySQL 8.4 Reference Manual. Data Types : сайт. 
+– URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+\TU/TimesNewRoman(0)/m/n/14.4 https://dev.mysql.com/doc/refman/8.4/en/data-type
+s.html (дата обращения:
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 21--22
+[]\TU/TimesNewRoman(0)/m/n/14.4 MySQL 8.4 Reference Manual. InnoDB Transaction 
+Model : сайт.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\TU/TimesNewRoman(0)/m/n/14.4 https://dev.mysql.com/doc/refman/8.4/en/select.ht
+ml (дата обращения:
+ []
+
+
+Underfull \hbox (badness 1052) in paragraph at lines 23--24
+[]\TU/TimesNewRoman(0)/m/n/14.4 MySQL 8.4 Reference Manual. INSERT Statement : 
+сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+\TU/TimesNewRoman(0)/m/n/14.4 https://dev.mysql.com/doc/refman/8.4/en/insert.ht
+ml (дата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+\TU/TimesNewRoman(0)/m/n/14.4 https://dev.mysql.com/doc/refman/8.4/en/update.ht
+ml (дата обращения:
+ []
+
+[124]
+Underfull \hbox (badness 1558) in paragraph at lines 32--33
+[]\TU/TimesNewRoman(0)/m/n/14.4 JavaScript : сайт. – URL: https://developer.moz
+illa.org/ru/docs/Web/
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 34--35
+[]\TU/TimesNewRoman(0)/m/n/14.4 HTML : сайт. – URL: https://doka.guide/html/ (д
+ата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]\TU/TimesNewRoman(0)/m/n/14.4 CSS : сайт. – URL: https://doka.guide/css/ (дат
+а обращения:
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 36--37
+[]\TU/TimesNewRoman(0)/m/n/14.4 JavaScript : сайт. – URL: https://doka.guide/js
+/ (дата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]\TU/TimesNewRoman(0)/m/n/14.4 HTMLBook. HTML, CSS, web-технологии : сайт. – U
+RL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]\TU/TimesNewRoman(0)/m/n/14.4 Метод HTTP GET : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+\TU/TimesNewRoman(0)/m/n/14.4 https://developer.mozilla.org/ru/docs/Web/HTTP/Re
+ference/Methods/GET
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]\TU/TimesNewRoman(0)/m/n/14.4 Метод HTTP POST : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+\TU/TimesNewRoman(0)/m/n/14.4 https://developer.mozilla.org/ru/docs/Web/HTTP/Re
+ference/Methods/POST
+ []
+
+[125]
+Underfull \hbox (badness 2205) in paragraph at lines 41--42
+[]\TU/TimesNewRoman(0)/m/n/14.4 Apache HTTP Server Version 2.4 Documentation : 
+сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]\TU/TimesNewRoman(0)/m/n/14.4 Apache HTTP Server. .htaccess files : сайт. – U
+RL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+\TU/TimesNewRoman(0)/m/n/14.4 https://httpd.apache.org/docs/2.4/howto/htaccess.
+html (дата обращения:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]\TU/TimesNewRoman(0)/m/n/14.4 phpMyAdmin Documentation : сайт. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]\TU/TimesNewRoman(0)/m/n/14.4 OWASP Cheat Sheet Series. SQL Injection Prevent
+ion Cheat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\TU/TimesNewRoman(0)/m/n/14.4 Sheet : сайт. – URL: https://cheatsheetseries.owa
+sp.org/cheatsheets/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+[]\TU/TimesNewRoman(0)/m/n/14.4 OWASP Cheat Sheet Series. Password Storage Chea
+t
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+\TU/TimesNewRoman(0)/m/n/14.4 Sheet : сайт. – URL: https://cheatsheetseries.owa
+sp.org/cheatsheets/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\TU/TimesNewRoman(0)/m/n/14.4 OWASP Cheat Sheet Series. Session Management Ch
+eat
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+\TU/TimesNewRoman(0)/m/n/14.4 Sheet : сайт. – URL: https://cheatsheetseries.owa
+sp.org/cheatsheets/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+\TU/TimesNewRoman(0)/m/n/14.4 https://cheatsheetseries.owasp.org/cheatsheets/Fi
+le_Upload_Cheat_Sheet.html
+ []
+
+[126]) (./Плакаты.tex [127] [128]
+File: images/pos1.eps Graphic file (type eps)
+<images/pos1.eps>
+File: images/pos2.eps Graphic file (type eps)
+<images/pos2.eps>
+ [129
+
+]
+File: images/pos3.eps Graphic file (type eps)
+<images/pos3.eps>
+ [130]
+File: images/pos4.eps Graphic file (type eps)
+<images/pos4.eps>
+ [131]
+File: images/pos5.eps Graphic file (type eps)
+<images/pos5.eps>
+ [132]
+File: images/pos6.eps Graphic file (type eps)
+<images/pos6.eps>
+ [133]
+File: images/pos7.eps Graphic file (type eps)
+<images/pos7.eps>
+ [134]
+File: images/pos8.eps Graphic file (type eps)
+<images/pos8.eps>
+ [135]
+File: images/pos9.eps Graphic file (type eps)
+<images/pos9.eps>
+
+[136] [137]) (./Код.tex
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+(c:/texlive/2026/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2025/11/14 1.11b listings language file
+)
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 4.
+ (./store.php
+[138
+
+] [139] [140]) (./functions.php [141] [142] [143]) (./send.php [144]
+[145] [146] [147] [148]) [149]) [150] (./main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-03-20>
+ ***********
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: C1B160EF6F9D19A3E54C6524F132F140;40361.
+ ) 
+Here is how much of TeX's memory you used:
+ 18259 strings out of 467992
+ 350273 string characters out of 5433177
+ 1337773 words of memory out of 5000000
+ 46859 multiletter control sequences out of 15000+600000
+ 629242 words of font info for 75 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,11n,110p,749b,3977s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (150 pages).
